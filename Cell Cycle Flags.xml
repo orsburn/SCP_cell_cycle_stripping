@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AnnotationAspect xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Id>4</Id>
+  <Name>Aspects_CellCycleFlags</Name>
+  <DisplayName>Cell Cycle Flags</DisplayName>
+  <Description>Cell Cycle Flags</Description>
+  <Guid>f82bc752-a938-409e-b8d0-dafa5dfc3c30</Guid>
+  <AnnotationGroups>
+    <AnnotationGroup>
+      <GroupID>139</GroupID>
+      <Position>1</Position>
+      <Ontology>Aspects_CellCycleDependency</Ontology>
+      <OntologyDisplayName>Cell Cycle Dependency</OntologyDisplayName>
+      <OntologyDescription />
+      <OntologyID>4</OntologyID>
+      <Description>G1 phase</Description>
+      <GroupColorArgb>-65536</GroupColorArgb>
+      <GroupDefinitions>
+        <GroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0000080">
+            <ChildTerms />
+          </AnnotationGroupDefinition>
+        </GroupDefinition>
+      </GroupDefinitions>
+    </AnnotationGroup>
+    <AnnotationGroup>
+      <GroupID>140</GroupID>
+      <Position>2</Position>
+      <Ontology>Aspects_CellCycleDependency</Ontology>
+      <OntologyDisplayName>Cell Cycle Dependency</OntologyDisplayName>
+      <OntologyDescription />
+      <OntologyID>4</OntologyID>
+      <Description>G1/S transition</Description>
+      <GroupColorArgb>-8323328</GroupColorArgb>
+      <GroupDefinitions>
+        <GroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0000083">
+            <ChildTerms>
+              <ChildTerms>GO:0071930</ChildTerms>
+              <ChildTerms>GO:0071931</ChildTerms>
+            </ChildTerms>
+          </AnnotationGroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0071930">
+            <ChildTerms />
+          </AnnotationGroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0071931">
+            <ChildTerms />
+          </AnnotationGroupDefinition>
+        </GroupDefinition>
+      </GroupDefinitions>
+    </AnnotationGroup>
+    <AnnotationGroup>
+      <GroupID>147</GroupID>
+      <Position>3</Position>
+      <Ontology>Aspects_CellCycleFlags</Ontology>
+      <OntologyDisplayName>Cell Cycle Flags</OntologyDisplayName>
+      <OntologyDescription>Cell Cycle Flags</OntologyDescription>
+      <OntologyID>4</OntologyID>
+      <Description>S Phase</Description>
+      <GroupColorArgb>-16777056</GroupColorArgb>
+      <GroupDefinitions>
+        <GroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0051320">
+            <ChildTerms>
+              <ChildTerms>GO:0000084</ChildTerms>
+              <ChildTerms>GO:0051332</ChildTerms>
+            </ChildTerms>
+          </AnnotationGroupDefinition>
+        </GroupDefinition>
+      </GroupDefinitions>
+    </AnnotationGroup>
+    <AnnotationGroup>
+      <GroupID>143</GroupID>
+      <Position>4</Position>
+      <Ontology>Aspects_CellCycleDependency</Ontology>
+      <OntologyDisplayName>Cell Cycle Dependency</OntologyDisplayName>
+      <OntologyDescription />
+      <OntologyID>4</OntologyID>
+      <Description>G2</Description>
+      <GroupColorArgb>-8355585</GroupColorArgb>
+      <GroupDefinitions>
+        <GroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0000085">
+            <ChildTerms />
+          </AnnotationGroupDefinition>
+        </GroupDefinition>
+      </GroupDefinitions>
+    </AnnotationGroup>
+    <AnnotationGroup>
+      <GroupID>148</GroupID>
+      <Position>5</Position>
+      <Ontology>Aspects_CellCycleFlags</Ontology>
+      <OntologyDisplayName>Cell Cycle Flags</OntologyDisplayName>
+      <OntologyDescription>Cell Cycle Flags</OntologyDescription>
+      <OntologyID>4</OntologyID>
+      <Description>G2 toM</Description>
+      <GroupColorArgb>-16744384</GroupColorArgb>
+      <GroupDefinitions>
+        <GroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0000086">
+            <ChildTerms>
+              <ChildTerms>GO:0000117</ChildTerms>
+              <ChildTerms>GO:0090282</ChildTerms>
+              <ChildTerms>GO:0090419</ChildTerms>
+            </ChildTerms>
+          </AnnotationGroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0008315">
+            <ChildTerms />
+          </AnnotationGroupDefinition>
+        </GroupDefinition>
+      </GroupDefinitions>
+    </AnnotationGroup>
+    <AnnotationGroup>
+      <GroupID>144</GroupID>
+      <Position>6</Position>
+      <Ontology>Aspects_CellCycleDependency</Ontology>
+      <OntologyDisplayName>Cell Cycle Dependency</OntologyDisplayName>
+      <OntologyDescription />
+      <OntologyID>4</OntologyID>
+      <Description>M phase</Description>
+      <GroupColorArgb>-65408</GroupColorArgb>
+      <GroupDefinitions>
+        <GroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0000087">
+            <ChildTerms>
+              <ChildTerms>GO:0000088</ChildTerms>
+              <ChildTerms>GO:0000089</ChildTerms>
+              <ChildTerms>GO:0000090</ChildTerms>
+              <ChildTerms>GO:0000093</ChildTerms>
+              <ChildTerms>GO:0000091</ChildTerms>
+              <ChildTerms>GO:0000092</ChildTerms>
+            </ChildTerms>
+          </AnnotationGroupDefinition>
+        </GroupDefinition>
+      </GroupDefinitions>
+    </AnnotationGroup>
+    <AnnotationGroup>
+      <GroupID>141</GroupID>
+      <Position>7</Position>
+      <Ontology>Aspects_CellCycleDependency</Ontology>
+      <OntologyDisplayName>Cell Cycle Dependency</OntologyDisplayName>
+      <OntologyDescription />
+      <OntologyID>4</OntologyID>
+      <Description>G1 to G0</Description>
+      <GroupColorArgb>-256</GroupColorArgb>
+      <GroupDefinitions>
+        <GroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0070315">
+            <ChildTerms />
+          </AnnotationGroupDefinition>
+        </GroupDefinition>
+      </GroupDefinitions>
+    </AnnotationGroup>
+    <AnnotationGroup>
+      <GroupID>149</GroupID>
+      <Position>8</Position>
+      <Ontology>Aspects_CellCycleFlags</Ontology>
+      <OntologyDisplayName>Cell Cycle Flags</OntologyDisplayName>
+      <OntologyDescription>Cell Cycle Flags</OntologyDescription>
+      <OntologyID>4</OntologyID>
+      <Description>G0 to G1</Description>
+      <GroupColorArgb>-16776961</GroupColorArgb>
+      <GroupDefinitions>
+        <GroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0045023">
+            <ChildTerms />
+          </AnnotationGroupDefinition>
+        </GroupDefinition>
+      </GroupDefinitions>
+    </AnnotationGroup>
+    <AnnotationGroup>
+      <GroupID>145</GroupID>
+      <Position>9</Position>
+      <Ontology>Aspects_CellCycleDependency</Ontology>
+      <OntologyDisplayName>Cell Cycle Dependency</OntologyDisplayName>
+      <OntologyDescription />
+      <OntologyID>4</OntologyID>
+      <Description>Generic mitosis</Description>
+      <GroupColorArgb>-16777216</GroupColorArgb>
+      <GroupDefinitions>
+        <GroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0007052">
+            <ChildTerms>
+              <ChildTerms>GO:0000022</ChildTerms>
+              <ChildTerms>GO:1905121</ChildTerms>
+              <ChildTerms>GO:0051228</ChildTerms>
+              <ChildTerms>GO:0061804</ChildTerms>
+              <ChildTerms>GO:0061805</ChildTerms>
+              <ChildTerms>GO:0061867</ChildTerms>
+              <ChildTerms>GO:0090307</ChildTerms>
+              <ChildTerms>GO:0051256</ChildTerms>
+              <ChildTerms>GO:0000073</ChildTerms>
+              <ChildTerms>GO:0030475</ChildTerms>
+              <ChildTerms>GO:1990810</ChildTerms>
+              <ChildTerms>GO:1903562</ChildTerms>
+            </ChildTerms>
+          </AnnotationGroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0030571">
+            <ChildTerms />
+          </AnnotationGroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0000093">
+            <ChildTerms />
+          </AnnotationGroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0000236">
+            <ChildTerms />
+          </AnnotationGroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0000088">
+            <ChildTerms />
+          </AnnotationGroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0000085">
+            <ChildTerms />
+          </AnnotationGroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0016359">
+            <ChildTerms />
+          </AnnotationGroupDefinition>
+        </GroupDefinition>
+      </GroupDefinitions>
+    </AnnotationGroup>
+  </AnnotationGroups>
+  <IsReadOnly>false</IsReadOnly>
+  <IsActive>true</IsActive>
+</AnnotationAspect>

@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AnnotationAspect xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Id>5</Id>
+  <Name>Aspects_MitosisMstageflags</Name>
+  <DisplayName>Mitosis M stage flags</DisplayName>
+  <Description>GO flags for steps of mitosis/M phase</Description>
+  <Guid>cc571ed1-fc59-4ff0-b717-e7da656b72b5</Guid>
+  <AnnotationGroups>
+    <AnnotationGroup>
+      <GroupID>150</GroupID>
+      <Position>1</Position>
+      <Ontology>Aspects_MitosisMstageflags</Ontology>
+      <OntologyDisplayName>Mitosis/M stage flags</OntologyDisplayName>
+      <OntologyDescription />
+      <OntologyID>5</OntologyID>
+      <Description>Prophase</Description>
+      <GroupColorArgb>-65536</GroupColorArgb>
+      <GroupDefinitions>
+        <GroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0051324">
+            <ChildTerms>
+              <ChildTerms>GO:0000088</ChildTerms>
+              <ChildTerms>GO:0007128</ChildTerms>
+              <ChildTerms>GO:0007136</ChildTerms>
+              <ChildTerms>GO:0000237</ChildTerms>
+              <ChildTerms>GO:0000238</ChildTerms>
+              <ChildTerms>GO:0000239</ChildTerms>
+              <ChildTerms>GO:0000240</ChildTerms>
+              <ChildTerms>GO:0000241</ChildTerms>
+            </ChildTerms>
+          </AnnotationGroupDefinition>
+        </GroupDefinition>
+      </GroupDefinitions>
+    </AnnotationGroup>
+    <AnnotationGroup>
+      <GroupID>151</GroupID>
+      <Position>2</Position>
+      <Ontology>Aspects_MitosisMstageflags</Ontology>
+      <OntologyDisplayName>Mitosis/M stage flags</OntologyDisplayName>
+      <OntologyDescription />
+      <OntologyID>5</OntologyID>
+      <Description>Metaphase</Description>
+      <GroupColorArgb>-32768</GroupColorArgb>
+      <GroupDefinitions>
+        <GroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0000089">
+            <ChildTerms />
+          </AnnotationGroupDefinition>
+        </GroupDefinition>
+      </GroupDefinitions>
+    </AnnotationGroup>
+    <AnnotationGroup>
+      <GroupID>152</GroupID>
+      <Position>3</Position>
+      <Ontology>Aspects_MitosisMstageflags</Ontology>
+      <OntologyDisplayName>Mitosis/M stage flags</OntologyDisplayName>
+      <OntologyDescription />
+      <OntologyID>5</OntologyID>
+      <Description>Metaphase/Anaphase transition</Description>
+      <GroupColorArgb>-256</GroupColorArgb>
+      <GroupDefinitions>
+        <GroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0007091">
+            <ChildTerms />
+          </AnnotationGroupDefinition>
+        </GroupDefinition>
+      </GroupDefinitions>
+    </AnnotationGroup>
+    <AnnotationGroup>
+      <GroupID>153</GroupID>
+      <Position>4</Position>
+      <Ontology>Aspects_MitosisMstageflags</Ontology>
+      <OntologyDisplayName>Mitosis/M stage flags</OntologyDisplayName>
+      <OntologyDescription />
+      <OntologyID>5</OntologyID>
+      <Description>Anaphase</Description>
+      <GroupColorArgb>-16711936</GroupColorArgb>
+      <GroupDefinitions>
+        <GroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0000090">
+            <ChildTerms>
+              <ChildTerms>GO:0000091</ChildTerms>
+              <ChildTerms>GO:0000092</ChildTerms>
+            </ChildTerms>
+          </AnnotationGroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0000091">
+            <ChildTerms />
+          </AnnotationGroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0000092">
+            <ChildTerms />
+          </AnnotationGroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0005680">
+            <ChildTerms />
+          </AnnotationGroupDefinition>
+        </GroupDefinition>
+      </GroupDefinitions>
+    </AnnotationGroup>
+    <AnnotationGroup>
+      <GroupID>154</GroupID>
+      <Position>5</Position>
+      <Ontology>Aspects_MitosisMstageflags</Ontology>
+      <OntologyDisplayName>Mitosis/M stage flags</OntologyDisplayName>
+      <OntologyDescription />
+      <OntologyID>5</OntologyID>
+      <Description>Telophase</Description>
+      <GroupColorArgb>-16776961</GroupColorArgb>
+      <GroupDefinitions>
+        <GroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0051326">
+            <ChildTerms>
+              <ChildTerms>GO:0000093</ChildTerms>
+              <ChildTerms>GO:0007134</ChildTerms>
+              <ChildTerms>GO:0007139</ChildTerms>
+            </ChildTerms>
+          </AnnotationGroupDefinition>
+        </GroupDefinition>
+      </GroupDefinitions>
+    </AnnotationGroup>
+    <AnnotationGroup>
+      <GroupID>155</GroupID>
+      <Position>6</Position>
+      <Ontology>Aspects_MitosisMstageflags</Ontology>
+      <OntologyDisplayName>Mitosis/M stage flags</OntologyDisplayName>
+      <OntologyDescription />
+      <OntologyID>5</OntologyID>
+      <Description>Cytokinesis</Description>
+      <GroupColorArgb>-12582784</GroupColorArgb>
+      <GroupDefinitions>
+        <GroupDefinition>
+          <AnnotationGroupDefinition ParentTerm="GO:0000910">
+            <ChildTerms>
+              <ChildTerms>GO:0000911</ChildTerms>
+              <ChildTerms>GO:0032506</ChildTerms>
+              <ChildTerms>GO:0043093</ChildTerms>
+              <ChildTerms>GO:0061639</ChildTerms>
+              <ChildTerms>GO:0061640</ChildTerms>
+              <ChildTerms>GO:1901901</ChildTerms>
+              <ChildTerms>GO:0000913</ChildTerms>
+              <ChildTerms>GO:0000914</ChildTerms>
+              <ChildTerms>GO:0000919</ChildTerms>
+              <ChildTerms>GO:0010235</ChildTerms>
+              <ChildTerms>GO:0010443</ChildTerms>
+              <ChildTerms>GO:0000912</ChildTerms>
+              <ChildTerms>GO:0000918</ChildTerms>
+              <ChildTerms>GO:0007105</ChildTerms>
+              <ChildTerms>GO:0010687</ChildTerms>
+              <ChildTerms>GO:0007107</ChildTerms>
+              <ChildTerms>GO:0031991</ChildTerms>
+              <ChildTerms>GO:0036089</ChildTerms>
+              <ChildTerms>GO:0036090</ChildTerms>
+              <ChildTerms>GO:0036212</ChildTerms>
+              <ChildTerms>GO:0036213</ChildTerms>
+              <ChildTerms>GO:0036214</ChildTerms>
+              <ChildTerms>GO:0090529</ChildTerms>
+              <ChildTerms>GO:0090530</ChildTerms>
+              <ChildTerms>GO:1902410</ChildTerms>
+              <ChildTerms>GO:1902621</ChildTerms>
+              <ChildTerms>GO:0000281</ChildTerms>
+              <ChildTerms>GO:0009920</ChildTerms>
+              <ChildTerms>GO:0033206</ChildTerms>
+              <ChildTerms>GO:0044837</ChildTerms>
+              <ChildTerms>GO:0000915</ChildTerms>
+              <ChildTerms>GO:0045573</ChildTerms>
+              <ChildTerms>GO:1902407</ChildTerms>
+              <ChildTerms>GO:0032186</ChildTerms>
+              <ChildTerms>GO:0032188</ChildTerms>
+              <ChildTerms>GO:1902408</ChildTerms>
+              <ChildTerms>GO:0061796</ChildTerms>
+              <ChildTerms>GO:0031028</ChildTerms>
+              <ChildTerms>GO:0031029</ChildTerms>
+              <ChildTerms>GO:1903471</ChildTerms>
+              <ChildTerms>GO:1903673</ChildTerms>
+              <ChildTerms>GO:1990386</ChildTerms>
+              <ChildTerms>GO:0031566</ChildTerms>
+              <ChildTerms>GO:0000916</ChildTerms>
+              <ChildTerms>GO:0032187</ChildTerms>
+              <ChildTerms>GO:0000917</ChildTerms>
+              <ChildTerms>GO:0071937</ChildTerms>
+              <ChildTerms>GO:1902411</ChildTerms>
+              <ChildTerms>GO:0031671</ChildTerms>
+              <ChildTerms>GO:0032130</ChildTerms>
+              <ChildTerms>GO:0061952</ChildTerms>
+              <ChildTerms>GO:0140278</ChildTerms>
+              <ChildTerms>GO:1902404</ChildTerms>
+              <ChildTerms>GO:1902405</ChildTerms>
+              <ChildTerms>GO:1902406</ChildTerms>
+              <ChildTerms>GO:1990274</ChildTerms>
+              <ChildTerms>GO:1990344</ChildTerms>
+              <ChildTerms>GO:0000282</ChildTerms>
+              <ChildTerms>GO:0009833</ChildTerms>
+              <ChildTerms>GO:0010069</ChildTerms>
+              <ChildTerms>GO:1904498</ChildTerms>
+              <ChildTerms>GO:0007110</ChildTerms>
+              <ChildTerms>GO:0007111</ChildTerms>
+              <ChildTerms>GO:0007112</ChildTerms>
+              <ChildTerms>GO:0040038</ChildTerms>
+              <ChildTerms>GO:1902575</ChildTerms>
+              <ChildTerms>GO:1903475</ChildTerms>
+              <ChildTerms>GO:2000689</ChildTerms>
+              <ChildTerms>GO:2000708</ChildTerms>
+              <ChildTerms>GO:1903486</ChildTerms>
+              <ChildTerms>GO:1990420</ChildTerms>
+              <ChildTerms>GO:0031030</ChildTerms>
+              <ChildTerms>GO:0031031</ChildTerms>
+              <ChildTerms>GO:1903472</ChildTerms>
+              <ChildTerms>GO:1903473</ChildTerms>
+              <ChildTerms>GO:0032189</ChildTerms>
+              <ChildTerms>GO:0007120</ChildTerms>
+              <ChildTerms>GO:0007121</ChildTerms>
+              <ChildTerms>GO:1903476</ChildTerms>
+              <ChildTerms>GO:1903479</ChildTerms>
+              <ChildTerms>GO:0071519</ChildTerms>
+              <ChildTerms>GO:0071520</ChildTerms>
+              <ChildTerms>GO:1903477</ChildTerms>
+              <ChildTerms>GO:1903478</ChildTerms>
+              <ChildTerms>GO:1904670</ChildTerms>
+            </ChildTerms>
+          </AnnotationGroupDefinition>
+        </GroupDefinition>
+      </GroupDefinitions>
+    </AnnotationGroup>
+  </AnnotationGroups>
+  <IsReadOnly>false</IsReadOnly>
+  <IsActive>true</IsActive>
+</AnnotationAspect>
